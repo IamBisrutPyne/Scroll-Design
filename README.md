@@ -23,4 +23,6 @@ $ Go to the folder
 $ Open index.html with your favorite browser
 ```
 
-# [Made by Bisrut Pyne](https://bisrutpyne.me) [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">](https://github.com/iambisrutpyne)
+# [Made by Bisrut Pyne](https://bisrutpyne.me)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">](https://github.com/iambisrutpyne)
