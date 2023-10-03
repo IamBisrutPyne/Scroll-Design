@@ -1,6 +1,6 @@
 # Simple CSS Scroll Design
 
-![Scroll Design]([scroll_design.png](https://onaircode.com/wp-content/uploads/2019/09/css-scrollbar.jpg))
+![Scroll Design](https://onaircode.com/wp-content/uploads/2019/09/css-scrollbar.jpg)
 
 ## Overview
 
